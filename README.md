@@ -1,34 +1,4 @@
-<p align="center">
-  <a href="https://vendure.io">
-    <img alt="Vendure logo" height="60" width="auto" src="https://a.storyblok.com/f/328257/699x480/8dbb4c7a3c/logo-icon.png">
-  </a>
-</p>
 
-<h1 align="center">
-  Vendure
-</h1>
-<h3 align="center">
-    Own Your Commerce. Build Without Workarounds. Ship Faster.
-</h3>
-<h4 align="center">
-  <a href="https://docs.vendure.io">Documentation</a> |
-  <a href="https://vendure.io">Website</a>
-</h4>
-
-<p align="center">
-  <a href="https://github.com/vendure-ecommerce/vendure/blob/master/LICENSE.md">
-    <img src="https://img.shields.io/badge/license-GPL-blue.svg" alt="Vendure is released under the GPLv3 license." />
-  </a>
-  <a href="https://twitter.com/intent/follow?screen_name=vendure_io">
-    <img src="https://img.shields.io/twitter/follow/vendure_io" alt="Follow @vendure_io" />
-  </a>
-  <a href="https://vendure.io/community">
-    <img src="https://img.shields.io/badge/join-our%20discord-7289DA.svg" alt="Join our Discord" />
-  </a>
-  <a href="https://github.com/vendure-ecommerce/vendure/blob/master/CONTRIBUTING.md">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs welcome!" />
-  </a>
-</p>
 
 ## What is Vendure 
 
@@ -60,8 +30,3 @@ Contributions to Vendure are welcome and highly appreciated! Whether you're fixi
 
 Our **[Contribution Guide](./CONTRIBUTING.md)** is covering everything from setting up your development environment to submitting your first pull request.
 
-**Ready to get started?** Check out [these issues](https://github.com/vendure-ecommerce/vendure/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22%F0%9F%91%8B%20contributions%20welcome%22) for a good first task to start!
-
-## License
-
-Licensed under the [GPLv3 license](./LICENSE.md). Commercial license (VCL) [available](https://vendure.io/pricing).
